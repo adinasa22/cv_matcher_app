@@ -1,0 +1,41 @@
+Job description
+Develop and implement machine learning models to solve complex business problems.
+Work with large language models (LLMs) to enhance natural language processing (NLP) capabilities.
+Design and develop retrieval-augmented generation (RAG) systems to improve information retrieval and synthesis.
+Collaborate with cross-functional teams to identify AI use cases and define project requirements.
+Analyze large datasets to extract actionable insights and inform decision-making.
+Monitor and evaluate the performance of AI models, providing feedback for continuous improvement.
+Stay up-to-date with the latest developments in AI and machine learning.
+Qualifications:
+Bachelors degree in Computer Science, Data Science, Statistics, or a related field. Masters or PhD preferred.
+Demonstrated experience in a Data Scientist or comparable role.
+Comprehensive knowledge of machine learning algorithms, techniques, and their practical implementation.
+Expertise in working with large language models (LLMs) such as GPT-3, GPT-4, or similar.
+Experience in developing retrieval-augmented generation (RAG) systems.
+Proficiency in programming languages such as Python, R, and SQL.
+Excellent analytical and problem-solving skills.
+Outstanding communication and collaborative skills to thrive in team-oriented environments.
+Preferred Skills:
+Knowledge of natural language processing (NLP) techniques and associated tools.
+Familiarity with AI tools and platforms (eg, LangChain, TensorFlow, PyTorch, Azure AI).
+Experience utilizing data visualization tools (eg, Tableau, Power BI).
+Working knowledge of data privacy, security standards, and best practices.
+Background in the banking sector or familiarity with financial products and services.
+Role: Data Scientist
+Industry Type: Banking
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: LLM in Law, Any Postgraduate
+Key Skills
+Analytical
+Machine learning
+Management consulting
+Information retrieval
+Natural language processing
+Continuous improvement
+Financial services
+SQL
+Python
