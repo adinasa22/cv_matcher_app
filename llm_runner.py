@@ -51,4 +51,4 @@ Try to return the percentage and feedback using match and mismatch.
 
     except Exception as e:
         print(f"Error: {e}")
-        return 0, [], []
+        return 0, [e], [e]
